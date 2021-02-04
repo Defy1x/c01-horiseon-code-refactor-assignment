@@ -38,8 +38,8 @@ Completed. WHEN I view the image elements
 Completed. THEN I find accessible alt attributes
 Completed. WHEN I view the heading attributes
 Completed. THEN they fall in sequential order
-Completed. *** WHEN I view the title element
-Completed. *** THEN I find a concise, descriptive title.
+Completed. WHEN I view the title element
+Completed. THEN I find a concise, descriptive title.
 ```
 
 ## Mock-Up
@@ -81,7 +81,7 @@ This homework is graded based on the following criteria:
 
 ### Repository Quality: 13%
 
-* Repository has a unique name. 
+* Repository has a unique name.
 
 * Repository follows best practices for file structure and naming conventions.
 
