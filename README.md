@@ -33,7 +33,7 @@ GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 Completed. THEN I find semantic HTML elements
 Completed. WHEN I view the structure of the HTML elements
-Completed.THEN I find that the elements follow a logical structure independent of styling and positioning
+Completed. THEN I find that the elements follow a logical structure independent of styling and positioning
 Completed. WHEN I view the image elements
 Completed. THEN I find accessible alt attributes
 Completed. WHEN I view the heading attributes
@@ -81,7 +81,7 @@ This homework is graded based on the following criteria:
 
 ### Repository Quality: 13%
 
-* Repository has a unique name. <!--This is completed-->
+* Repository has a unique name. 
 
 * Repository follows best practices for file structure and naming conventions.
 
